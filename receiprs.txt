@@ -5,3 +5,10 @@ about learn python
 sql
 excel
 powerbi
+
+tensor flow
+ai generation wrork
+aws
+ms azure
+
+
